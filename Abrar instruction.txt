@@ -1,0 +1,15 @@
+Git VM Setup
+sudo yum groupinstall "development Tools"
+
+Git Commands:
+git clone (Repisoratory file Clone)
+Git diff (Cheking updates for changes in Rep)
+
+
+1.Clone 
+edit
+diff 
+Stage: gitadd
+git status( Check rep cond)
+git commit -m "comit msg"(
+git log (history of comits)
